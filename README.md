@@ -1,0 +1,1 @@
+# basic-vanilla-js-projects
